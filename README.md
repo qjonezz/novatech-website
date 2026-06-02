@@ -1,6 +1,10 @@
 # NovaTech Website
+# NovaTech Innovations
 
-Simple static website built using HTML.
+NovaTech Innovations is a student-led portfolio project developed to showcase
+practical skills in web development, system design, and IT support concepts.
+The project focuses on clean structure, usability, and GitHub Pages deployment
+for internship and entry-level opportunities.
 
 ## Features
 - Navigation bar
